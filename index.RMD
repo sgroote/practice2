@@ -15,8 +15,11 @@ This is a dataset that contains information about the number of publications pub
 
 This data can be found in three place:
 
-http://scopus.com, 
-https://www.arlstatistics.org/home, https://www.nsf.gov/statistics/srvyherd/
+# ordered list
+
+1. http://scopus.com, 
+2. https://www.arlstatistics.org/home, 
+3. https://www.nsf.gov/statistics/srvyherd/
 
 # read a csv file
 # hit tab to get it to ask the file you need
