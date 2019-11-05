@@ -8,6 +8,7 @@ These are the **demo** fiels from NCEAS tutotiral
 -apples
 -oranges
 -other files
+-banana from Jian
 
 ## New Session
 
