@@ -18,3 +18,11 @@ Now I am working from Rstudio.  I will sync later.
 3. pears
 
 my **favorite** fruit
+
+
+my **favorite** chips
+
+1. dill pickle
+2. all dressed
+3. salt and vinegar
+
