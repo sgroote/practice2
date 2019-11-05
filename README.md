@@ -12,3 +12,9 @@ These are the **demo** fiels from NCEAS tutotiral
 ## New Session
 
 Now I am working from Rstudio.  I will sync later.
+
+1. apples
+2. oranges
+3. pears
+
+my **favorite** fruit
