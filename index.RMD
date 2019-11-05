@@ -56,3 +56,5 @@ plot(arldata$total_publications,arldata$av_references_article)
  Data Cleaning
  [Analysis](rmarkdowntotestcommit.html)
  -the rest of the stuff
+ 
+ <img src="temperature.jpg" class="displayleft" alt=Mytitle"/>
