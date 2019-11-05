@@ -1,0 +1,51 @@
+---
+title: "rmarkdowntoaddtocommit"
+author: "Sandy De Groote"
+date: "11/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+ 
+This is a dataset that contains information about the number of publications published at an institution according to scopus and the number of references for each article.   It also contains HERD funding dadta.   It also has ARL librar data.   This study was looking at the relationship between library collections and use and the relationship with the number of publications.
+
+This data can be found in three place:
+
+http://scopus.com, 
+https://www.arlstatistics.org/home, https://www.nsf.gov/statistics/srvyherd/
+
+# read a csv file
+# hit tab to get it to ask the file you need
+
+Use `read.csv' to read in the data
+
+```{r}
+arldata <- read.csv("arlscopusherddata.csv", skip=1)
+class(arldata)
+head(arldata)
+```
+
+ 
+ # Analysis
+ here is what I  am going to do
+ 
+```{r}
+ mean_reference <- mean(arldata$total_publications)
+mean_reference
+```
+
+ 
+```{r}
+plot(arldata$total_publications,arldata$av_pubs_per_faculty)
+```
+```{r}
+plot(arldata$total_publications,arldata$av_references_article)
+```
+
+ 
+ 
+ # Results
