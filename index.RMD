@@ -52,3 +52,7 @@ plot(arldata$total_publications,arldata$av_references_article)
  
  
  # Results
+ 
+ Data Cleaning
+ [Analysis](rmarkdowntotestcommit.html)
+ -the rest of the stuff
