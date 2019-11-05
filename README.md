@@ -16,6 +16,8 @@ Now I am working from Rstudio.  I will sync later.
 1. apples
 2. oranges
 3. pears
+4. cherries
+5. fresh strawberries
 
 my **favorite** fruit
 
