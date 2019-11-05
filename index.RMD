@@ -59,9 +59,14 @@ plot(arldata$total_publications,arldata$av_references_article)
  
  <img src="temperature.jpg" class="displayleft" alt=Mytitle"/>
  
-```
-{r graphics, fig.align='center', echo=FALSE}
+```{r graphics, fig.align='center', echo=FALSE}
 knitr::include_graphics("temperature.jpg")
+
 ```
+```{r graphics, fig.align='center', echo=FALSE}
+knitr::include_graphics("http://www.uic.edu/images/logo.png")
+
+```
+
  
  
