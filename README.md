@@ -5,7 +5,7 @@ practice 2 for NCEAS
 
 These are the **demo** fiels from NCEAS tutotiral
 
--apples
+-apples likes fuji (by Jian)
 -oranges
 -other files
 -banana from Jian
