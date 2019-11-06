@@ -67,6 +67,8 @@ knitr::include_graphics("temperature.jpg")
 knitr::include_graphics("http://www.uic.edu/images/logo.png")
 
 ```
+# Jian's new section
 
+Add some local changes
  
  
